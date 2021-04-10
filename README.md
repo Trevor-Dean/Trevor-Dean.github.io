@@ -6,4 +6,4 @@ Stylling and Appearance
 * Nav Highlights
 * Sticky Nav
 * Striped Table Rows
-*
+* Sticky Footer

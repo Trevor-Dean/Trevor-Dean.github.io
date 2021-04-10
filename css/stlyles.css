@@ -83,3 +83,12 @@ td {
 col:nth-child(even) {background: #444}
 col:nth-child(odd) {background: #333}
 
+footer {
+    display: flex;
+    justify-content: flex-end;
+    font-size: small;
+    position: sticky;
+    bottom: 0px;
+    
+}
+
