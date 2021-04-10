@@ -1,3 +1,9 @@
 # Trevor-Dean.github.io
 # Trevor Dean
-this is a webpage all about me and how cool I am!
+Stylling and Appearance
+* Artistic Portrait
+* Nav Menu
+* Nav Highlights
+* Sticky Nav
+* Striped Table Rows
+*

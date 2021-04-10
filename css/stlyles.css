@@ -57,6 +57,10 @@ body, html {
     margin-bottom: 20px;
 }
 
+#poem {
+    margin-left: 75px;
+}
+
 table {
     padding: 20px;
     width: 100%;
