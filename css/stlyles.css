@@ -1,16 +1,4 @@
-table {
-    border: 1px solid black;
-    border-spacing: 5px;
-  }
-th {
-    border: 1px solid black;
-    text-align: center;
-} 
-  
-td {
-    border: 1px solid black;
-    text-align: center;
-}
+
 
 body, html {
   height: 100%;
@@ -21,6 +9,8 @@ body, html {
 .topnav {
     overflow: hidden;
     background-color: #333;
+    position: sticky;
+    top: 0px;
   }
   
   .topnav a {
@@ -30,6 +20,7 @@ body, html {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    
   }
   
   .topnav a:hover {
@@ -38,12 +29,12 @@ body, html {
   }
   
   .topnav a.active {
-    background-color: #4CAF50;
+    background-color: hsl(46, 39%, 49%);
     color: white;
   }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Images/Trevor.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../Images/Trevor.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -60,4 +51,31 @@ body, html {
   color: white;
 }
 
+#theMain {
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+table {
+    padding: 20px;
+    width: 100%;
+      
+}
+  
+th {
+    border: 1px solid white;
+    text-align: center;
+    background-color: hsl(46, 39%, 49%);
+    color: white;
+} 
+  
+td {
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+}
+
+col:nth-child(even) {background: #444}
+col:nth-child(odd) {background: #333}
 
