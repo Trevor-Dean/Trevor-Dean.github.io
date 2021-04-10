@@ -1,6 +1,6 @@
 # Trevor-Dean.github.io
 # Trevor Dean
-Stylling and Appearance
+Styling and Appearance
 * Artistic Portrait
 * Nav Menu
 * Nav Highlights
